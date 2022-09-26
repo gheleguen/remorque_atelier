@@ -1,6 +1,9 @@
 site_name: remorques_ateliers
 nav:
     - Readme: README.md
+    - Remorque de Nicolas
+        - Liste des besoins : remorque_nicolas/liste_besoins.md
+        - Outils et fournitures : remorque_nicolas/outils_fournitures.md
         
 theme:
     name: material
