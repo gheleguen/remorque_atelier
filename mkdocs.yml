@@ -1,0 +1,22 @@
+site_name: remorques_ateliers
+nav:
+    - Readme: README.md
+        
+theme:
+    name: material
+    palette:
+      primary: blue
+
+plugins:
+  - search
+  - i18n:
+      default_language: fr
+      languages:
+        fr: Français
+
+markdown_extensions:
+    - smarty
+    - sane_lists
+    - admonition
+    - toc:
+        permalink: true
