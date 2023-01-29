@@ -15,7 +15,7 @@
 
 ## 2/ Recommandations à surveiller lors de l'achat
 
- - La charge maximale est à surveiller. Une première remorque visité n'avait pour PTAC que 300kg. Avec 75kg à vide, cette dernière ne pouvait être chargé que de 225kg au total. Ce qui est peu pour un tel volume. 
+ - La charge maximale est à surveiller. Une première remorque visité n'avait pour PTAC que 300kg. Avec 75kg à vide, cette dernière ne pouvait être chargé que de 225kg au total. Ce qui est un peu juste pour un tel volume. 
  - Surveiller les amortisseurs ; 
  - Essayer d'ouvrir les portes ; 
  - Chercher les points de rouilles eventuels ;

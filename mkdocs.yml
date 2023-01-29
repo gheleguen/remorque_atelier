@@ -2,6 +2,7 @@ site_name: remorques_ateliers
 nav:
     - Readme: README.md
     - 1. Choix de la remorque: choix_remorque.md
+    - 2. Transformation: transformation.md
         
 theme:
     name: material
