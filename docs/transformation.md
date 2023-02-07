@@ -19,7 +19,7 @@ Mon souhait était également de combiner un espace qui se déploie en un geste 
  - On peut entre les deux côtés de la remorque poser des cloisons avec des étagères, tirroirs, trappes. 
  - Un touret de câble sera placé dans la remorque pour pouvoir alimenter les besoins de la remorque via un branchement sur secteur (Ou prise caravane). 
  
-![rojet_remorque](pictures/Tr2-1.png)
+![projet_remorque](pictures/Tr2-1.png)
 
 
 
@@ -50,6 +50,8 @@ Mon souhait était également de combiner un espace qui se déploie en un geste 
  - Le long des trapèzes visser 2 tasseaux permettant de soutenir le plateau qui viendra se poser là. 
 ![TR3-5](pictures/TR3-5.png)
 
+ ### 1.2 Découpe et poses des plateaux
+
  - Prendre scrupuleusement les mesures nécessaire du plateau. Largeur et longueur. Attention : Prendre une largeur à l'intersection du plateau et du trapèze. L'arrête du plateau ne devra pas dépasser des trapèzes. Cette vigilence est importante afin de s'assurer que les deux plateaux sur charnières puissent se fermer en s'appuyant sur les deux trapèzes.
 ![TR3-6](pictures/TR3-6.png)
 
@@ -67,8 +69,9 @@ Mon souhait était également de combiner un espace qui se déploie en un geste 
  - Découper les 2 plateaux mobiles dans du contre-plaqué de même éppaisseur que le plateau central. La longueur de ces plateaux doit permettre à ces derniers de s'appuyer sur les montants des trapèzes . Ces panneaux doivent pouvoir s'appuyer sur ces derniers. Une longueur à laquelle on retranchera une marge de l'ordre de 5 à 10mm afin de laisser un jour de par et d'autres des plateaux mobiles. Pour ce qui est de la largeurd des panneaux mobiles, s'assurer qu'ils dépassent de la structure afin de permettre plus tard une coupe oblique.
 
 ![TR3-11](pictures/TR3-11.png)
+![TR3-14](pictures/TR3-14.png)
 
-- Il est probable que l'angle des trapèzes en bois posent problème en position déplié. Pour laisser le plateau se déplier sans blocage. Il existe deux solutions. Couper le morceau qui dépasse du plateau central ou scier dans les plateaux mobiles une encoche, comme présenté ci-dessous. 
+- Il est probable que l'angle des trapèzes en bois posent problème en position déplié. Pour laisser le plateau se déplier sans blocage. Il existe deux solutions. (1) Couper le morceau qui dépasse du plateau central ou (2) scier dans les plateaux mobiles une encoche, comme présenté ci-dessous. J'ai obté pour la première option. 
 
 ![TR3-13](pictures/TR3-13.png)
 
@@ -78,3 +81,24 @@ Mon souhait était également de combiner un espace qui se déploie en un geste 
 
 - Une fois replié, le plateau doit se loger entre les deux trapèzes en contreplaqué et venir s'appuyer sur les montants en bois. 
 - Visser les plateaux mobiles avec les charnières en prenant garde à laisser 1mm d'espace entre les deux plateaux en position déplié.
+- A l'aide d'une scie circulaire scier les plateaux mobiles au bon angle afin que les bords de splateaux mobiles ne dépassent pas du trapèze en position replié. Attention il pourra être par la suite nécéssaire d'ajouter un joint adhésif. Auquel cas prévoir l'espace nécéssaire. 
+
+![TR3-15](pictures/TR3-15.png)
+
+### 1.3 Renforts
+
+ - Afin d'équérrer la structure et d'éviter à cette dernière de plier lors du transport, j'ai ajouté un panneau en bois. Celui-ci a une longueur égale au tiers de l'espqce entre les deux trapèzes. J'ai pris une attention partivulière à obtenir une planche aux angles le plus droit possible. Un tasseau permettra de visser cette planche au plateau central. 
+
+![TR3-12](pictures/TR3-16.png)
+
+ - A l'opposé on peut ajouter un tasseau de bois en travers permettant de reprendre les efforts verticaux. Celui-ci sera vissé au trapèzes en contrplaqué au moyens de vis à bois. 
+
+![TR3-17](pictures/TR3-17.png)
+
+ - Afin de supporter les plateaux mobiles une fois dépliés, j'ai posé 4 equerres découpé dans une planche de contreplaqué de 15mm minimum. 
+ - Ces equerres sont montés sur charnières de manière à pouvoir les (1) plier pour les transport. Dans cette position ces pièces de bois sont maintenu par des aimants puissants que j'ai incrusté dans le bois et collé à la colle PU. (2) Et déplier pour soutenir les deux plateaux mobiles en position déplier. 
+ - Les charnières doivent être inscrustés dans le bois pour permettre une adhérence parfaite en position plié.
+ - Les aquerres doivent être positionnés de manière à ce que les plateaux soit bien horizontaux une fois dépliés. 
+ - Les charnières sont maintenues à la remorque par des vis que l'on peu visser dans les montants au moyen dans mon cas de trous taraudés, voir de rivets. 
+
+### 1.4 Meubles

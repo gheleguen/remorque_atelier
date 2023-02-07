@@ -3,6 +3,9 @@ nav:
     - Readme: README.md
     - 1. Choix de la remorque: choix_remorque.md
     - 2. Transformation: transformation.md
+    - 3. Equipements:
+      - 3.1. Serveur local: serveur_local.md
+      
         
 theme:
     name: material
