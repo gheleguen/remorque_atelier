@@ -59,7 +59,7 @@ Mon souhait était également de combiner un espace qui se déploie en un geste 
  - Positionner ce plateau. S'assurer qu'il correspond au besoin.
 ![TR3-7](pictures/TR3-7.png)
 
- - On pourra si on le désire effectuer dans ce plateau des trous permettant de réaliser des rangements sous la plateau par exemple. Dans mon cas, j'ai réalisé cette perforation avec un gabarit, une défonceuse et une bague à copier. Enfin, j'ai réalisé un épaulement au moyen d'une faise à copier. 
+ - On pourra si on le désire effectuer dans ce plateau des trous permettant de réaliser des rangements sous la plateau par exemple. Dans mon cas, j'ai réalisé cette perforation avec un gabarit, une défonceuse et une bague à copier. Enfin, j'ai réalisé un épaulement au moyen d'une fraise à copier. 
 ![TR3-8](pictures/TR3-8.png)
 
  - Découper dans du contreplaqué d'eppaisseur 10mm deux trapèzes dont la hauteur sera rigoureusement la même que ceux construit en tasseaux précademment. La largeur de ces trapèze devront être élargi de manière à dépasser de la structure en bois de chaque coté. Le dépassement sur les bords obliques devra être le même que celui de l'eppaisseur des deux plateaux mobiles. 
@@ -101,4 +101,4 @@ Mon souhait était également de combiner un espace qui se déploie en un geste 
  - Les aquerres doivent être positionnés de manière à ce que les plateaux soit bien horizontaux une fois dépliés. 
  - Les charnières sont maintenues à la remorque par des vis que l'on peu visser dans les montants au moyen dans mon cas de trous taraudés, voir de rivets. 
 
-### 1.4 Meubles
+### 1.4 Couvercle
