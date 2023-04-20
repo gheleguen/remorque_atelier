@@ -20,6 +20,7 @@ Mon souhait était également de combiner un espace qui se déploie en un geste 
  - Un touret de câble sera placé dans la remorque pour pouvoir alimenter les besoins de la remorque via un branchement sur secteur (Ou prise caravane). 
  
 ![projet_remorque](pictures/Tr2-1.png)
+Notes: L'aménagement intérieur sur ce visuel n'est pas tout à fait celui que j'ai réalisé (cf. Chapitre, Amménagement).
 
 
 
