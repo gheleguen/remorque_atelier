@@ -4,7 +4,7 @@ nav:
     - 1. Choix de la remorque: choix_remorque.md
     - 2. Transformation:
       - 2.1 Superstructure: transformation.md
-      - 2.2 Amménagements : ammenagements.md
+      - 2.2 Amménagements: ammenagements.md
     - 3. Equipements:
       - 3.1. Serveur local: serveur_local.md
       
