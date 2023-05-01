@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250mm"
+   height="200mm"
+   viewBox="0 0 250 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="tiroir_5mm.svg"
+   inkscape:export-filename="D:\Autoentreprise\remorque_atelier\git\remorques_ateliers\docs\pictures\decoupe_tiroir_5mm.png"
+   inkscape:export-xdpi="101.6"
+   inkscape:export-ydpi="101.6">
+  <defs
+     id="defs2">
+    <rect
+       x="92.226189"
+       y="-155.58928"
+       width="57.452381"
+       height="70.303574"
+       id="rect851-4" />
+    <rect
+       x="92.226189"
+       y="-155.58928"
+       width="57.452381"
+       height="70.303574"
+       id="rect868" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1055.97"
+     inkscape:cy="639.50602"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1"
+       id="rect862"
+       width="264.06232"
+       height="213.28108"
+       x="-5.8799295"
+       y="92.189148" />
+    <path
+       id="path1006"
+       style="fill:#1f54cf;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 51.509766 58.603516 L 51.509766 313.72266 L 89.304688 313.72266 L 89.304688 438.44531 L 51.509766 438.44531 L 51.509766 693.56445 L 188.83203 693.56445 L 188.83203 655.76953 L 326.1543 655.76953 L 326.1543 693.56445 L 463.47852 693.56445 L 463.47852 58.603516 L 326.1543 58.603516 L 326.1543 96.398438 L 188.83203 96.398438 L 188.83203 58.603516 L 51.509766 58.603516 z M 403.00586 270.25781 L 440.80078 270.25781 L 440.80078 481.91016 L 403.00586 481.91016 L 403.00586 270.25781 z M 149.77734 338.66602 A 37.417323 37.417323 0 1 1 149.77734 413.50195 A 37.417323 37.417323 0 1 1 149.77734 338.66602 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,97)" />
+    <path
+       id="path1006-0"
+       style="fill:#1f54cf;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 495.26367 57.888672 L 495.26367 313.00781 L 533.05859 313.00781 L 533.05859 437.73242 L 495.26367 437.73242 L 495.26367 692.84961 L 632.58594 692.84961 L 632.58594 655.05469 L 769.91016 655.05469 L 769.91016 692.84961 L 907.23242 692.84961 L 907.23242 57.888672 L 769.91016 57.888672 L 769.91016 95.685547 L 632.58594 95.685547 L 632.58594 57.888672 L 495.26367 57.888672 z M 846.75977 269.54297 L 884.55469 269.54297 L 884.55469 481.19727 L 846.75977 481.19727 L 846.75977 269.54297 z M 593.53125 337.95312 A 37.417323 37.417323 0 1 1 593.53125 412.78711 A 37.417323 37.417323 0 1 1 593.53125 337.95312 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,97)" />
+    <text
+       xml:space="preserve"
+       id="text849-0"
+       style="font-size:50.8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect851-4);fill:#ffffff;fill-opacity:1;"
+       transform="translate(-43.197514,325.666)"><tspan
+         x="92.226562"
+         y="-110.64375"><tspan>H</tspan></tspan></text>
+  </g>
+</svg>

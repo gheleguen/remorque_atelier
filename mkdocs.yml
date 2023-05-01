@@ -1,10 +1,10 @@
 site_name: remorques_ateliers
 nav:
-    - Readme: README.md
+    - Introduction: introduction.md
     - 1. Choix de la remorque: choix_remorque.md
     - 2. Transformation:
       - 2.1 Superstructure: transformation.md
-      - 2.2 Amménagements: ammenagement.md
+      - 2.2 Amménagements: amenagement.md
     - 3. Equipements:
       - 3.1. Serveur local: serveur_local.md
       
@@ -12,7 +12,7 @@ nav:
 theme:
     name: material
     palette:
-      primary: blue
+      primary: green
 
 plugins:
   - search
