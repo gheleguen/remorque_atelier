@@ -23,6 +23,7 @@ plugins:
       default_language: fr
       languages:
         fr: Français
+        en: English
 
 markdown_extensions:
     - smarty
