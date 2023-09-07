@@ -4,6 +4,7 @@
 ### 1.1 Mes besoins
 Afin de faciliter l'installation, j'ai fait le choix d'installer des rangements afin de garder à porté de mains des outils courants tel que un jeu de tournevis, de pinces, et quelques boites qui pourraient contenir de la visserie ou des pièces courantes. Tous ces rangements devront être bloqués pour ne pas s'ouvrir durant le voyage. A cela j'ai ajouté sur la partie qui sert de renfort à l'équerrage, 4 prises électrique 220V et un tableau en liège pour l'affichage. Une dernière contrainte se pose pour les rangements qui devront être le plus possible accessible du côté gauche comme du côté droit. 
 On pourrait également prévoir :
+
  - Un Haut Parleur Bluetooth pour la musique
  - Un serveur locale
  - Un bloc pour ranger quelques livres.
@@ -11,6 +12,7 @@ On pourrait également prévoir :
 
 ### 1.2 Mes solutions
 Je vais réaliser :
+
  - 3 tiroirs bloqués par des boutons de caravanes s'ouvrant dans les deux sens. Dans ces tiroirs pourront êtres rangés, tournevis, pinces et autre petit matériel de bricolage. 
  - Un bloc à portes pour des boites de visseries, et autres petites fournitures. 
  - Un panneau de liège ;
@@ -29,6 +31,7 @@ Je vais réaliser :
 |Loquet, boutons poussoirs de caravane|![AI2-3](pictures/AI2-3.jpg)|[Amazon](https://www.amazon.fr/Poussoir-Serrure-Fermoir-Caravane-d%C3%89paisseur/dp/B08P6ZFF7T?pd_rd_w=h537m&content-id=amzn1.sym.ef6c5961-4387-448e-95ad-7b3a0d0a846b&pf_rd_p=ef6c5961-4387-448e-95ad-7b3a0d0a846b&pf_rd_r=GV0A93SCEJN44CPXCQYB&pd_rd_wg=tJ169&pd_rd_r=9a0da424-d1f5-4f45-817a-fc3b650fc242&pd_rd_i=B08P6ZFF7T&psc=1&ref_=pd_bap_d_grid_rp_0_1_t) ou magasin de caravaning ou d'accastillage bateau|4|
 
 ### 2.2 Matériel utilisés
+
  - Colle à bois ;
  - Découpe Laser ou fraiseuse ou scie sauteuse, à chantourner;
  - Visserie ;
@@ -61,6 +64,7 @@ Imprimer en 3D de préférence en PETG ou en ABS pour une meilleure résistance 
 </br>
 ### 3.2 Assemblage des meubles
 **3.2.1 Meuble à trois tiroirs**
+
  - Avec de la colle à bois, commencer à assembler le meuble à tiroirs. Encoller et placer les 4 cloisons "A" sur "D" aux emplacement définis. Attention à bien surveiller le bon équérrage des cloisons. On se servira d'équerres pour maintenir les pièces pendant le séchage. ![AI3-1](pictures/AI3-1.png)
  - Le dessous du meuble, là où glisseront les tiroirs sera constitué de 4 tasseaux de bois de 27*9mm. Couper 4 longueur de tasseaux de 551mm chacun.   
  - Les visser sur les 4 "A" comme présenté ci dessous. Les visser permettra de les démonter pour pouvoir percer et loger la tête des vis qui permettront de fixer le meuble au plan de travail. ![AI3-1](pictures/AI3-2.png)
@@ -73,6 +77,7 @@ Imprimer en 3D de préférence en PETG ou en ABS pour une meilleure résistance 
  
 ### 3.3 Assemblage des tiroirs
 Les étapes suivantes sont à reproduire trois fois pour réaliser 3 tiroirs :
+
  - Coller le fond de tiroir "G" aux deux côté "F". ![AI3-6](pictures/AI3-6.png)
  - Coller les deux avant et arrières de tiroirs "H" aux plaques "G" et "F".
  - Maintenir le temps du séchage au moyen de serre-joints. ![AI3-7](pictures/AI3-7.png)

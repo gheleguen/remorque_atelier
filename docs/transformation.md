@@ -2,13 +2,14 @@
 
 ## 1/ Mes besoins
 
- Mon projet de remorque est destiné à animer des ateliers particulièrement en électronique, réparations, avec un peu de de menuiserie simple. J'ai donc besoin d'électricité à poste, avec potentiellement un mini réseau local pour partager des données. 
+ Mon projet de remorque est destiné à servir de support pour animer des ateliers particulièrement pour de l'électronique, des ateliers de réparations, ou de menuiserie simple. J'ai donc besoin d'électricité à poste, avec potentiellement un mini serveur local pour partager des données. 
  
-Mon souhait était également de combiner un espace qui se déploie en un geste avec le caractère compacte du tout. Mon cahier des charges était donc : 
+Mon souhait était également de combiner un espace qui se déploie en un geste tout en restant compacte pour la route. Mon cahier des charges était donc : 
+
  - Un plan de travail repliable et déployable en quelques gestes ; 
  - Pouvoir accueillir jusqu'à 4 places assises ; 
  - Un moyen de distribuer l'électricité dans la remorque et pouvoir se brancher facilement ;
- - Laisser un accés facile à quelques outils et ustensils de bases, présence dans le plateau déployble ; 
+ - Laisser un accés facile à quelques outils et ustensiles de bases ;
  - Intégrer une solution d'alimentation (câble et peut-être un jour une batterie.)
  - Ne pas dépasser le poids maximum (PTAC 500kg).
 
@@ -103,3 +104,8 @@ Notes: L'aménagement intérieur sur ce visuel n'est pas tout à fait celui que 
  - Les charnières sont maintenues à la remorque par des vis que l'on peu visser dans les montants au moyen dans mon cas de trous taraudés, voir de rivets. 
 
 ### 1.4 Couvercle
+**Détails à venir**
+
+Le couvercle est réalisé en contreplaqué de 10mm. J'ai vissé des baguettes quarts de ronds sur les cotés pour bloquer l'ouverture des plans de travail. 
+
+Deux fermetures à levier avec anneau à cadenas peuvent se placer sur les côtés afin de bloquer l'ouverture de la caisse
