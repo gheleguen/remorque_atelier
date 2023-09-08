@@ -52,7 +52,7 @@ Notes: L'aménagement intérieur sur ce visuel n'est pas tout à fait celui que 
  - Le long des trapèzes visser 2 tasseaux permettant de soutenir le plateau qui viendra se poser là. 
 ![TR3-5](pictures/TR3-5.png)
 
- ### 1.2 Découpe et poses des plateaux
+### 1.2 Découpe et poses des plateaux
 
  - Prendre scrupuleusement les mesures nécessaire du plateau. Largeur et longueur. Attention : Prendre une largeur à l'intersection du plateau et du trapèze. L'arrête du plateau ne devra pas dépasser des trapèzes. Cette vigilence est importante afin de s'assurer que les deux plateaux sur charnières puissent se fermer en s'appuyant sur les deux trapèzes.
 ![TR3-6](pictures/TR3-6.png)
