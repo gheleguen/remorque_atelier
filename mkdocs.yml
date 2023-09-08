@@ -20,6 +20,7 @@ theme:
 plugins:
   - search
   - with-pdf:
+      output_path: ../document.pdf
 
 
 markdown_extensions:
