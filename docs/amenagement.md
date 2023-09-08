@@ -70,6 +70,7 @@ Imprimer en 3D de préférence en PETG ou en ABS pour une meilleure résistance 
  - Les visser sur les 4 "A" comme présenté ci dessous. Les visser permettra de les démonter pour pouvoir percer et loger la tête des vis qui permettront de fixer le meuble au plan de travail. ![AI3-1](pictures/AI3-2.png)
 
 **3.2.2 Meuble à portes coulissantes**
+
  - Commencer par réaliser une nervure au moyen d'une défonceuse de 6mm de largeur à 5 ou 6mm du bord de chaque petit coté de la pièce "B" et de 5mm de profondeur. ![AI3-3](pictures/AI3-3.png)
   - Assembler ce meuble en collant à 90° les deux parties "B" et "C" que l'on pourra équerrer au moyen d'une baguette de 13mm de coté. ![AI3-4](pictures/AI3-4.png)
   - Visser au raz de la fente de coulissement 2 tasseaux de 21*21 d'une longueur permettant au meuble une fois en place d'être bien équerré au plateau de la remorque. ![AI3-5](pictures/AI3-5.png)
