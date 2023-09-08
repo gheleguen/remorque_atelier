@@ -20,9 +20,6 @@ theme:
 plugins:
   - search
   - with-pdf:
-    copyright: cc-by-sa; 2023 Guillaume Leguen.
-    cover_subtitle: Project documentation with Markdown.
-    output_path: ../document.pdf
 
 
 markdown_extensions:
