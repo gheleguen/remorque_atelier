@@ -10,7 +10,11 @@ nav:
       - 2.2 Aménagements: amenagement.md
     - 3. Equipements:
       - 3.1. Serveur local: serveur_local.md
-    - Contribuer: edit-this-doc_fr.md      
+      - 3.2. Mobidoc:
+        - 3.2.1 Boitier Picam HQ: mobidoc_boitier_camera.md
+        - 3.2.2 Boitier Raspberry: mobidoc_boitier_raspberry.md
+    - Contribuer: edit-this-doc_fr.md
+    - License : license.md
         
 theme:
     name: material
